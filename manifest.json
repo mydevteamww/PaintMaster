@@ -3,10 +3,10 @@
   "description": "Paint Tool",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Paint:Master",
+  "name": "Paint: Master",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Paint:Master",
+  "short_name": "Paint: Master",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Paint:Master",
+      "name": "Paint: Master",
       "url": "",
       "description": ""
     }
